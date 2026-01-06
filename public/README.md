@@ -1,3 +1,3 @@
 # public
 
-Static files exposed by webserver
+Static files served by the webserver
